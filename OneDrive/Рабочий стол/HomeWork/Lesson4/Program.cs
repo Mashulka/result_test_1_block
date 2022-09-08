@@ -30,7 +30,7 @@ while (i > 0)
 
 Console.WriteLine("Сумма цифр в числе: " + sum);
 */
-
+/*
 // Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
     
@@ -51,3 +51,50 @@ int Method (int a)
 {
     return numbers[a];
 }
+*/
+
+int[] CreateRandomArray(int size, int minValue, int maxValue)
+{
+    int[] newArray = new int[size];
+    for (int i = 0; i < size; i++)
+        newArray[i] = new Random().Next(minValue, maxValue + 1);
+
+    return newArray;    
+}
+
+void ShowArray(int[] array)
+
+{
+    for(int i = 0; i < array.Length; i++)
+        Console.Write(array[i] + "");
+
+    Console.WriteLine();        
+}
+
+void FindMinMaxSum(int[] array)
+{
+    int sumPositive = 0;
+    int sumNegative = 0;
+
+    for(int i = 0; i < array.Length; i++)
+    {
+        if(array[i] > 0)
+           sumPositive += array[i];
+        else
+           sumNegative += array[i];   
+    }
+
+    Console.WriteLine("sum of negative elements is" + sumNegative);
+    Console.WriteLine("sum of positive elements is" + sumPositive);
+}
+
+Console.Write("Input size for array: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input min possible value fo element: ");
+int min = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input max possible value fo element: ");
+int max = Convert.ToInt32(Console.ReadLine());
+
+int[] myArray = CreateRandomArray(a, min, max);
+ShowArray(myArray);
+FindMinMaxSum(myArray);
