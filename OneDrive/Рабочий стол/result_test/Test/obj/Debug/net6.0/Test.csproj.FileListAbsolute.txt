@@ -1,0 +1,15 @@
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\bin\Debug\net6.0\Test.exe
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\bin\Debug\net6.0\Test.dll
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.dll
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\refint\Test.dll
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\Users\mariy\OneDrive\Рабочий стол\result_test\Test\obj\Debug\net6.0\ref\Test.dll
